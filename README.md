@@ -1,7 +1,7 @@
 # docker-ssh
 
-copy your ssh public on root folder.
-====================================
+copy your ssh public on root folder. And run these command
+-----------------------------------
 
 sudo docker build -t testserver-ssh . 
 -------------------------------------
